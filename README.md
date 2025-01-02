@@ -18,6 +18,7 @@ Epoch-based state management for key evolution
 
 # Security Features:
 ---------------------------------
+Subtle implemented
 AES-GCM for authenticated encryption
 Cryptographically secure random number generation
 Nonce management with automatic incrementation
