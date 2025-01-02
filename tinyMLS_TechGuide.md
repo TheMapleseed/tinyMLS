@@ -61,6 +61,7 @@ The architecture is built around several key components:
 
 ### State Machine
 
+```mermaid
 stateDiagram-v2
     [*] --> Initialize
     Initialize --> Ready: Successful Init
@@ -353,3 +354,4 @@ type Config struct {
    - Set up alerts
 
 For detailed implementation examples and best practices, refer to the [Implementation Guide](#implementation-guide) section.
+
