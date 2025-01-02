@@ -1,4 +1,5 @@
 #                 tinyMLS
+Single File, all pure GO! without external dependcies. 
 --------------------------------------------------------------------------
 This implementation provides a high-performance MLS library with the following enterprise-grade features:
 
