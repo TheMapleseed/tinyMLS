@@ -61,7 +61,6 @@ The architecture is built around several key components:
 
 ### State Machine
 
-```mermaid
 stateDiagram-v2
     [*] --> Initialize
     Initialize --> Ready: Successful Init
